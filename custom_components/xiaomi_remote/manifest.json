@@ -5,5 +5,6 @@
   "dependencies": ["remote"],
   "codeowners": ["@anonym-tsk"],
   "requirements": [],
-  "homeassistant": "0.96.0"
+  "homeassistant": "0.96.0",
+  "version": 0
 }
